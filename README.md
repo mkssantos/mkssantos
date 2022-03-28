@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Marcus Santos 👋
 
 - 🌱 Atualmente fazendo graduação de Engenharia de Computação.
+- 🖥️ Estudando Front-End
 
 <div align="center">
   <a href="https://github.com/mkssantos">
