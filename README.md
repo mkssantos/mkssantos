@@ -1,7 +1,6 @@
-### Hi There, I am Marcus Santos 👋
+### 👋 Hi There, I am Marcus Santos, a Computer Engineering student passionate about building, learning, and solving problems through technology. 
 
-- 🌱 Atualmente fazendo graduação de Engenharia de Computação.
-- 🖥️ Estudando Front-End
+- 🖥️ I'm currently focused on becoming a Full-Stack Developer and Data Analyst, combining my technical foundation with creativity and analytical thinking. I enjoy developing complete systems — from intuitive front-end interfaces to efficient back-end architectures — while also exploring data to uncover insights that drive decisions.
 
 <div align="center">
   <a href="https://github.com/mkssantos">
@@ -17,6 +16,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <i class="devicon-amazonwebservices-plain-wordmark colored"></i>
+
 </div>
   
 ##
